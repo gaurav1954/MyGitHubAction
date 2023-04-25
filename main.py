@@ -1,4 +1,3 @@
-
 def hello():
     print("hi hitesh hks! Hello GFG")
 
